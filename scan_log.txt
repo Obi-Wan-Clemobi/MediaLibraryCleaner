@@ -1,0 +1,434 @@
+
+Scanning /Volumes/Movies (movie)...
+Using 8 worker threads
+Found 954 media files to process
+[12/24/25 20:39:28] INFO     [The.Chronicles.of.Riddick.2004.DC.BluRay.810p.DTS.x264-PRoDJi.mkv] Completed extraction - 
+                             1440x600 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [耳をすませば.Whisper.of.the.Heart.1995.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv] Completed     
+                             extraction - 1920x1036 V_MPEG4/ISO/AVC                                                     
+                    INFO     [Another_Earth.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                       
+                    INFO     [The Martian [2015].mkv] Completed extraction - 1920x800 V_MPEG4/ISO/AVC                   
+                    INFO     [The.Commodore.Story.2018.DOCU.WEB.x264-RBB.mp4] Completed extraction - 720x400 avc1       
+                    INFO     [Andre.the.Giant.2018.1080p.AMZN.WEB-DL.x264-worldmkv.mkv] Completed extraction - 1920x1080
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 5)                                                   
+                    INFO     [The_Dark_Knight_Rises_t01.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC           
+                    INFO     [The.Princess.Bride.1987.720p.BluRay.DTS.x264-CyTSuNee.mkv] Completed extraction - 1280x694
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Under.Siege.2.Dark.Territory.1995.720p.BluRay.AC3.x264-CyTSuNee.mkv] Completed extraction 
+                             - 1280x720 V_MPEG4/ISO/AVC                                                                 
+                    WARNING  [Imax.Bugs.A.Rainforest.Adventure.3D.Bluray.2003.AVC.DTS.HDMA5.1-Ex3DBlurayisoTeam.iso] No 
+                             video track found                                                                          
+                    INFO     [Imax.Bugs.A.Rainforest.Adventure.3D.Bluray.2003.AVC.DTS.HDMA5.1-Ex3DBlurayisoTeam.iso]    
+                             Completed extraction - NonexNone None                                                      
+                    INFO     [Zookeeper.2011.1080p.Bluray.x264-MaxHD.mkv] Completed extraction - 1920x1080              
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 10)                                                  
+                    INFO     [The_Great_Gatsby.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                    
+                    INFO     [Futurama.02.The.Beast.With.A.Billion.Backs[2008].avi] Completed extraction - 640x368 XVID 
+                    INFO     [James.Bond.007.20.Tomorrow.Never.Dies[1997].avi] Completed extraction - 528x272 DIV3      
+                    INFO     [Yngwie_Malmsteen-Concerto_Suite_Eminor.mkv] Completed extraction - 720x486 V_MPEG4/ISO/AVC
+                    INFO     [James.Bond.007.14.Octopussy[1983].avi] Completed extraction - 624x272 DIV3                
+                    INFO     Committed 5 files to database (total: 15)                                                  
+                    INFO     [jumper.3D.2008.1080p.bluray.half-sbs.dts.x264-publichd.mkv] Completed extraction -        
+                             1920x1080 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [The_Matrix_Revolutions.mkv] Completed extraction - 1920x1080 V_MS/VFW/FOURCC / WVC1       
+                    INFO     [Superbad.2007.UNRATED.1080p.BluRay.x264-WPi.mkv] Completed extraction - 1920x1040         
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [The.Rules.of.Attraction.2002.1080p.x264-hV.mkv] Completed extraction - 1920x1080          
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 20)                                                  
+                    INFO     [Snow.White.And.The.Seven.Dwarfs.1937.1080p.BluRay.x264-CiNEFiLE.mkv] Completed extraction 
+                             - 1456x1080 V_MPEG4/ISO/AVC                                                                
+                    INFO     [Valkyrie[2008].avi] Completed extraction - 608x320 XVID                                   
+                    INFO     [Rise.of.the.Planet.of.the.Apes.2011.1080p.BluRay.x264.DTS-WiKi.mkv] Completed extraction -
+                             1920x816 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Monty Python Live at the Hollywood Bowl (1982).avi] Completed extraction - 448x336 XVID   
+                    INFO     [Lincoln.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                             
+                    INFO     Committed 5 files to database (total: 25)                                                  
+                    INFO     [Fight.Club.1999.1080p.BluRay.DTS.x264-CtrlHD.mkv] Completed extraction - 1920x800         
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Serendipity.2001.HDTV.1080i.mkv] Completed extraction - 1920x1072 V_MPEG4/ISO/AVC         
+                    INFO     [パンダ・コパンダ Panda! Go, Panda! 1972 DVDRip x264.mkv] Completed extraction - 720x496   
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Horrible.Bosses.EXTENDED.2011.1080p.Bluray.x264-TWiZTED.mkv] Completed extraction -       
+                             1920x800 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [借りぐらしのアリエッティ.The.Borrower.Arrietty.2010.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv]  
+                             Completed extraction - 1920x1036 V_MPEG4/ISO/AVC                                           
+                    INFO     [魔女の宅急便.Kiki's.Delivery.Service.1989.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv] Completed  
+                             extraction - 1920x1036 V_MPEG4/ISO/AVC                                                     
+                    INFO     Committed 5 files to database (total: 30)                                                  
+                    INFO     [Green.Lantern.EXTENDED.HDBR.AC3-51[2001].avi] Completed extraction - 1280x536 XVID        
+                    INFO     [Gladiator.Extended.Cut.HDBR.AC3-51[2000].mp4] Completed extraction - 1280x544 avc1        
+                    INFO     [Julie.and.Julia.2009.1080p.BluRay.x264-METiS.mkv] Completed extraction - 1920x1040        
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Shutter.Island.2010.1080p.BluRay.x264.DTS-WiKi.mkv] Completed extraction - 1920x816       
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Æon.Flux.2005.1080p.Bluray.DTS.x264-ESiR.mkv] Completed extraction - 1920x816             
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 35)                                                  
+[12/24/25 20:39:29] INFO     [rush.2013.1080p.bluray.x264-sparks.mkv] Completed extraction - 1920x800 V_MPEG4/ISO/AVC   
+                    INFO     [Crank.High.Voltage.AC51.HD[2009].avi] Completed extraction - 608x352 XVID                 
+                    INFO     [Rio.HDBR.AC3-51[2011].mp4] Completed extraction - 1280x528 avc1                           
+                    INFO     [Star Trek V The Final Frontier 1989 1080p BluRay DTS x264-CtrlHD.mkv] Completed extraction
+                             - 1910x796 V_MPEG4/ISO/AVC                                                                 
+                    INFO     Committed 5 files to database (total: 40)                                                  
+                    INFO     [Star_Wars_Episode_IV_A_New_Hope.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC     
+                    INFO     [lchd-wotw.mkv] Completed extraction - 1920x1040 V_MPEG4/ISO/AVC                           
+                    INFO     [Victoria's Secret Fashion Show 2001.avi] Completed extraction - 480x360 MP42              
+                    INFO     [Watchmen.Director's.Cut.2009.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction -        
+                             1920x800 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [James.Bond.007.17.The.Living.Daylights[1987].avi] Completed extraction - 560x240 DIV3     
+                    INFO     Committed 5 files to database (total: 45)                                                  
+                    INFO     [Oceans.Thirteen.2007.1080p.BluRay.x264-HDEX.mkv] Completed extraction - 1920x800          
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Dragon.Ball.Z.Broly.The.Legendary.Super.Saiyan.1993.720p.BluRay.x264-CiNEFiLE.mkv]        
+                             Completed extraction - 1280x720 V_MPEG4/ISO/AVC                                            
+                    INFO     [Law_Abiding_Citizen.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                 
+                    INFO     [James.Bond.007.07.On.Her.Majesty's.Secret.Service[1969].avi] Completed extraction -       
+                             512x224 DIV3                                                                               
+                    WARNING  [Imax.Arabia.3D.Bluray.2010.AVC.DTS.HD-MA5.1-The3DTeam.iso] No video track found           
+                    INFO     [Imax.Arabia.3D.Bluray.2010.AVC.DTS.HD-MA5.1-The3DTeam.iso] Completed extraction -         
+                             NonexNone None                                                                             
+                    INFO     Committed 5 files to database (total: 50)                                                  
+                    INFO     [A.Christmas.Carol.2009.1080p.Bluray.X264-DIMENSION.mkv] Completed extraction - 1920x800   
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Upside_Down.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                         
+                    INFO     [天空の城ラピュタ.Laputa.Castle.in.the.Sky.1986.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv]       
+                             Completed extraction - 1920x1036 V_MPEG4/ISO/AVC                                           
+                    INFO     [Dragon.Ball.Z.The.Tree.Of.Might.1990.720p.BluRay.x264-CiNEFiLE.mkv] Completed extraction -
+                             1280x720 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [The.Bourne.Identity.2002.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction - 1920x816   
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 55)                                                  
+                    INFO     [Cornetto.1.Shaun.of.the.Dead.2004.1080p.BluRay.DTS.x264-CyTSuNee.mkv] Completed extraction
+                             - 1920x842 V_MPEG4/ISO/AVC                                                                 
+                    INFO     [world.natural.heritage.hawaii.3D.2012.1080p.bluray.half-sbs.x264-public3d.mkv] Completed  
+                             extraction - 1920x1080 V_MPEG4/ISO/AVC                                                     
+                    INFO     [You.Don't.Mess.With.The.Zohan.Unrated.Edition[2008].avi] Completed extraction - 584x308   
+                             DX50                                                                                       
+                    INFO     [metallica.720p.x264-PublicHD.mkv] Completed extraction - 1280x534 V_MPEG4/ISO/AVC         
+                    INFO     [The.Hangover.Part.II.2011.1080p.BluRay.x264-SECTOR7.mkv] Completed extraction - 1920x800  
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 60)                                                  
+                    INFO     [the.amazing.spiderman.2012.rerip.multi.1080p.bluray.x264-lost.mkv] Completed extraction - 
+                             1920x808 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [crf-italian.job.mkv] Completed extraction - 1280x532 V_MPEG4/ISO/AVC                      
+                    INFO     [Pinocchio.1940.BluRay.1080p.DTS.x264.dxva-EuReKA.mkv] Completed extraction - 1452x1080    
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Coraline.2009.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction - 1920x1040             
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [The.Book.of.Eli.2010.1080p.BluRay.x264-METiS.mkv] Completed extraction - 1920x800         
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [A.Nightmare.On.Elm.Street.7.Wes.Cravens.New.Nightmare.1994.1080p.BluRay.x264-MOOVEE.mkv]  
+                             Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                                           
+                    INFO     Committed 5 files to database (total: 65)                                                  
+                    INFO     [The.Curious.Case.of.Benjamin.Button.2008.1080p.BluRay.DTS.x264-ESiR.mkv] Completed        
+                             extraction - 1920x800 V_MPEG4/ISO/AVC                                                      
+                    INFO     [平成狸合戦ぽんぽこ Pom Poko 1994 DVDRip x264-TLF.mkv] Completed extraction - 720x552      
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [紅の豚.Porco.Rosso.1992.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv] Completed extraction -       
+                             1920x1036 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [Up.In.The.Air.2009.1080p.mkv] Completed extraction - 1920x1040 V_MPEG4/ISO/AVC            
+                    INFO     [Hitch.2005.1080p.BluRay.x264.DTS-WiKi.mkv] Completed extraction - 1920x800 V_MPEG4/ISO/AVC
+                    INFO     Committed 5 files to database (total: 70)                                                  
+                    INFO     [The Smurfs 2011 BluRay3D Half SBS 1080p AC3 x264 INFERNO.mkv] Completed extraction -      
+                             1920x1080 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [YELLOW_MATTER_CUSTARD.mkv] Completed extraction - 718x480 V_MPEG4/ISO/AVC                 
+[12/24/25 20:39:30] INFO     [Star Trek The Motion Picture 1979 1080p BluRay x264-CtrlHD.mkv] Completed extraction -    
+                             1920x818 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [looper.2012.1080p.bluray.x264-sparks.mkv] Completed extraction - 1920x816 V_MPEG4/ISO/AVC 
+                    INFO     Committed 5 files to database (total: 75)                                                  
+                    INFO     [Monty Python - Life of Brian (1979).avi] Completed extraction - 704x336 DIV3              
+                    INFO     [Casa_de_mi_Padre.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                    
+                    INFO     [Terminator.1[1984].avi] Completed extraction - 632x334 DX50                               
+                    INFO     [TRON Legacy 2010 BluRay3D Half SBS 1080p AC3 x264 INFERNO.mkv] Completed extraction -     
+                             1920x1080 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [Source.Code.2011.1080p.BluRay.x264-TWiZTED.mkv] Completed extraction - 1920x1080          
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 80)                                                  
+                    INFO     [G.I.Joe.The.Rise.Of.Cobra.2009.1080p.BluRay.DTS.x264-WiKi.mkv] Completed extraction -     
+                             1920x800 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Battleship.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                          
+                    INFO     [コクリコ坂から.From Up on Poppy Hill.2011.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv] Completed  
+                             extraction - 1920x1036 V_MPEG4/ISO/AVC                                                     
+                    INFO     [Funny.People.2009.UNRATED.1080p.Bluray.DTS.x264-EbP.mkv] Completed extraction - 1920x1036 
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Street.Fighter.The.Legend.of.Chun-Li.Unrated[2009].avi] Completed extraction - 704x304    
+                             XVID                                                                                       
+                    INFO     Committed 5 files to database (total: 85)                                                  
+                    INFO     [Victoria's Secret Fashion Show 2010.ts] Completed extraction - 1920x1080 2                
+                    INFO     [Cars.2.HDBR.AC3-51[2011].avi] Completed extraction - 1280x536 XVID                        
+                    INFO     [epic.3D.2013.1080p.bluray.half-sbs.dts.x264-publichd.mkv] Completed extraction - 1920x1080
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Pixar.Short.Partly.Cloudy.1080p.BluRay.x264-ESiR.mkv] Completed extraction - 1920x1080    
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Joe.Hisaishi.in.Budoukan.Miyazaki.Anime.to.Tomoniaynda.25.Years.2008.720p.BluRay.x264-WiKi
+                             .mkv] Completed extraction - 1280x720 V_MPEG4/ISO/AVC                                      
+                    INFO     Committed 5 files to database (total: 90)                                                  
+                    INFO     [Wall-E.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                              
+                    INFO     [Immortals (2011) 3d Half-SBS.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC        
+                    INFO     [Pirates.Of.The.Caribbean.Dead.Mans.Chest.2006.1080p.BluRay.DTS.x264-hV.mkv] Completed     
+                             extraction - 1920x800 V_MPEG4/ISO/AVC                                                      
+                    INFO     [Hancock.Unrated.2008.BluRay.1080p.DTS.x264.dxva-EuReKA.mkv] Completed extraction -        
+                             1920x800 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [This_is_Spinal_Tap.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                  
+                    INFO     Committed 5 files to database (total: 95)                                                  
+                    INFO     [Priest.2011.BluRay.1080p.DTS.x264-CHD.mkv] Completed extraction - 1920x800 V_MPEG4/ISO/AVC
+                    INFO     [The.Girlfriend.Experience.2009.1080p.BluRay.DTS.x264-CyTSuNee.mkv] Completed extraction - 
+                             1920x804 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Shrek.2001.1080p.BluRay.DTS.x264-HiDt.mkv] Completed extraction - 1920x1080               
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Speed.1994.1080p.BluRay.DTS.x264-CyTSuNee.mkv] Completed extraction - 1920x816            
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Austin.Powers.The.Spy.Who.Shagged.Me.1999.1080p.BluRay.DTS.x264-iLL.mkv] Completed        
+                             extraction - 1920x816 V_MPEG4/ISO/AVC                                                      
+                    INFO     Committed 5 files to database (total: 100)                                                 
+                    INFO     [Dragon.Ball.Z.The.History.Of.Trunks.1993.720p.BluRay.x264-CiNEFiLE.mkv] Completed         
+                             extraction - 1280x720 V_MPEG4/ISO/AVC                                                      
+                    INFO     [Pirates.Of.The.Caribbean.At.Worlds.End.2007.1080p.BluRay.DTS.x264-hV.mkv] Completed       
+                             extraction - 1920x800 V_MPEG4/ISO/AVC                                                      
+                    INFO     [The.Bourne.Supremacy.2004.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction - 1920x816  
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Monty.Python.and.the.Holy.Grail.AC51[1975].avi] Completed extraction - 592x320 XVID       
+                    INFO     [Our_Idiot_Brother.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                   
+                    INFO     [The.Twilight.Saga.Breaking.Dawn.Part.1.2011.1080p.BluRay.x264-SECTOR7.mkv] Completed      
+                             extraction - 1920x800 V_MPEG4/ISO/AVC                                                      
+                    INFO     Committed 5 files to database (total: 105)                                                 
+                    INFO     [Terminator_Salvation_Director's_Cut[DTS-HD_DTS].mkv] Completed extraction - 1920x1080     
+                             V_MS/VFW/FOURCC / WVC1                                                                     
+                    INFO     [Zack.and.Miri.Make.a.Porno.2008.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction -     
+                             1920x1080 V_MPEG4/ISO/AVC                                                                  
+[12/24/25 20:39:31] INFO     [Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.BluRay.1080p.DTS.x264-CHD.mkv] Completed 
+                             extraction - 1920x800 V_MPEG4/ISO/AVC                                                      
+                    INFO     [A.Nightmare.on.Elm.Street.2.Freddys.Revenge.1985.1080p.BluRay.x264-PSYCHD.mkv] Completed  
+                             extraction - 1920x1080 V_MPEG4/ISO/AVC                                                     
+                    INFO     Committed 5 files to database (total: 110)                                                 
+                    INFO     [X-Men.3.The.Last.Stand[2006].avi] Completed extraction - 688x284 DX50                     
+                    INFO     [Prometheus.2012.DTS-HD.DTS.MULTISUBS.1080p.BluRay.x264.HQ-TUSAHD.mkv] Completed extraction
+                             - 1920x800 V_MPEG4/ISO/AVC                                                                 
+                    INFO     [James.Bond.007.06.You.Only.Live.Twice[1967].avi] Completed extraction - 720x480 DIV3      
+                    INFO     [Abraham Lincoln_ Vampire Hunter (Main feature).mkv] Completed extraction - 1920x1080      
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Terminator.2.Judgment.Day[1991].avi] Completed extraction - 624x262 DX50                  
+                    INFO     Committed 5 files to database (total: 115)                                                 
+                    INFO     [James.Bond.007.03.From.Russia.With.Love[1963].avi] Completed extraction - 544x304 DIV3    
+                    INFO     [The.Bourne.Ultimatum.2007.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction - 1920x800  
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Star_Wars_Episode_V_The_Empire_Strikes_Back.mkv] Completed extraction - 1920x1080         
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [The_Matrix.mkv] Completed extraction - 1920x1080 V_MS/VFW/FOURCC / WVC1                   
+                    INFO     [Matrix_Reloaded.mkv] Completed extraction - 1920x1080 V_MS/VFW/FOURCC / WVC1              
+                    INFO     [The_Professional.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                    
+                    INFO     Committed 5 files to database (total: 120)                                                 
+                    INFO     [Dragon.Ball.Z.Lord.Slug.1991.720p.BluRay.x264-CiNEFiLE.mkv] Completed extraction -        
+                             1280x720 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Tangled.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                             
+                    INFO     [500.Days.of.Summer.2009.1080p.BluRay.DTS.x264-EbP.mkv] Completed extraction - 1920x800    
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Sherlock.Holmes.2009.1080p.BluRay.DTS.x264-EbP.mkv] Completed extraction - 1920x1080      
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 125)                                                 
+                    INFO     [James.Bond.007.05.Thunderball[1965].avi] Completed extraction - 704x416 DIV3              
+                    INFO     [Batman.Returns.1992.1080p.BluRay.x264-CiNEFiLE.mkv] Completed extraction - 1920x1080      
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Keanu [2016] 2.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                      
+                    INFO     [Adventureland 2009 1080p BluRay DTS x264-refined.mkv] Completed extraction - 1920x1040    
+                             V_MPEG4/ISO/AVC                                                                            
+[12/24/25 20:39:32] INFO     [imts-in-a-world-1080.mkv] Completed extraction - 1920x800 V_MPEG4/ISO/AVC                 
+                    INFO     Committed 5 files to database (total: 130)                                                 
+                    INFO     [Bad.Boys.1995.1080p.BluRay.x264-MELiTE.mkv] Completed extraction - 1920x1040              
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Battle.for.Terra[2007].avi] Completed extraction - 640x272 XVID                           
+                    INFO     [He Is Just Not That Into You.iso] Completed extraction - 720x576 MPEG Video               
+                    INFO     [Imax Into the Deep 3D Half-SBS.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC      
+                    INFO     [Futurama.03.Benders.Game[2008].avi] Completed extraction - 544x304 XVID                   
+                    INFO     Committed 5 files to database (total: 135)                                                 
+                    INFO     [Ocean Wonderland 3D Half-SBS.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC        
+                    INFO     [Spider-Man.Homecoming.2017.UHD.BluRay.2160p.TrueHD.Atmos.7.1.mkv] Completed extraction -  
+                             3840x2160 V_MPEGH/ISO/HEVC                                                                 
+                    INFO     [James.Bond.007.18.License.To.Kill[1989].avi] Completed extraction - 640x272 XVID          
+                    INFO     [Despicable.Me.2010.1080p.Bluray.x264.DTS-CBGB.mkv] Completed extraction - 1920x1040       
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Unknown.2011.1080p.BluRay.DD5.1.x264-EbP.mkv] Completed extraction - 1920x800             
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Austin.Powers.in.Goldmember.2002.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction -    
+                             1920x816 V_MPEG4/ISO/AVC                                                                   
+                    INFO     Committed 5 files to database (total: 140)                                                 
+                    INFO     [Our.Universe.3D.2013.1080p.BluRay.Half-SBS.DTS.x264-PublicHD.mkv] Completed extraction -  
+                             1920x1080 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [Jack_Reacher.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                        
+                    INFO     [千と千尋の神隠し Spirited Away 2001 DVDRip x264.mkv] Completed extraction - 720x464       
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [FINAL.FANTASY.VII.ADVENT.CHILDREN.COMPLETE.2005.Bluray.1080.DTS.2Audio.x264-CHD.mkv]      
+                             Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                                           
+                    INFO     Committed 5 files to database (total: 145)                                                 
+                    INFO     [あらしのよるに.Stormy.Night.2005.720p.HDTV.x264.AAC-THORA.mkv] Completed extraction -     
+                             1280x688 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Eastern.Promises[2007].avi] Completed extraction - 624x352 XVID                           
+                    INFO     [Finding.Neverland.2004.1080p.BluRay.DTS.x264-CtrlHD.mkv] Completed extraction - 1920x816  
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Due.Date.2010.1080p.BluRay.DTS.x264-DON.mkv] Completed extraction - 1920x800              
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [The Departed (2006) BDRip 1080p DTS multisub HighCode-PHD.mkv] Completed extraction -     
+                             1920x800 V_MPEG4/ISO/AVC                                                                   
+                    INFO     Committed 5 files to database (total: 150)                                                 
+                    INFO     [Dragon.Ball.Z.Super.Android.13.1992.720p.BluRay.x264-HALCYON.mkv] Completed extraction -  
+                             1280x720 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [James.Bond.007.16.A.View.To.A.Kill[1985].avi] Completed extraction - 592x256 DIV3         
+                    INFO     [Underworld.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                          
+[12/24/25 20:39:33] INFO     [James.Bond.007.08.Diamonds.Are.Forever[1971].avi] Completed extraction - 624x248 XVID     
+                    INFO     [Happy.Gilmore.1996.BluRay.mkv] Completed extraction - 1280x694 V_MPEG4/ISO/AVC            
+                    INFO     [Ted.2012.UNRATED.1080p.BluRay.x264-WEST.mkv] Completed extraction - 1920x1040             
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 155)                                                 
+                    INFO     [A.Good.Day.To.Die.Hard.2013.EXTENDED.1080p.BluRay. DTS-HD.MA.x264-PublicHD.mkv] Completed 
+                             extraction - 1920x1040 V_MPEG4/ISO/AVC                                                     
+                    INFO     [Batman.Begins.2005.1080p.BluRay.x264.iNT-RoCKRioT.mkv] Completed extraction - 1920x800    
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Battle：Los.Angeles.2011.BluRay.1080p.DTSMA.x264-CHD.mkv] Completed extraction - 1920x800 
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Caddyshack.1980.1080p.BluRay.DTS.x264-HDC.mkv] Completed extraction - 1920x1080           
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 160)                                                 
+                    INFO     [Hulk.Vs.Wolverine[2009].avi] Completed extraction - 680x370 DX50                          
+                    INFO     [Star_Wars_Episode_III_Revenge_of_the_Sith.mkv] Completed extraction - 1920x1080           
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Punisher.War.Zone[2008] .avi] Completed extraction - 688x280 DX50                         
+                    INFO     [Underworld_Rise_of_the_Lycans.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC       
+                    INFO     [This_Is_40.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                          
+                    INFO     [Wreck-It.Ralph.2012.MULTi.1080p.BluRay.DTS.x264-SuAvE.mkv] Completed extraction -         
+                             1920x1080 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [Life_of_Pi.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                          
+                    INFO     Committed 5 files to database (total: 165)                                                 
+                    INFO     [Fantastic_4_Rise_of_the_Silver_Surfer.mkv] Completed extraction - 1920x1080               
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Monsters.Inc.2001.1080p.BluRay.x264-CiNEFiLE.mkv] Completed extraction - 1920x1040        
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Cloudy_With_A_Chance_Of_Meatballs.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC   
+                    INFO     [Forgetting.Sarah.Marshall.Unrated.2008.1080p.BluRay.DTS.x264-CtrlHD.mkv] Completed        
+                             extraction - 1920x1038 V_MPEG4/ISO/AVC                                                     
+                    INFO     [The Hangover Digital.mkv] Completed extraction - 640x480 V_MPEG4/ISO/AVC                  
+                    INFO     Committed 5 files to database (total: 170)                                                 
+                    INFO     [James.Bond.007.11.The.Spy.Who.Loved.Me[1977].avi] Completed extraction - 608x256 XVID     
+                    INFO     [August.Rush.2007.BluRay.1080p.DTS.x264-PRoDJi.mkv] Completed extraction - 1920x800        
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Alice.in.Wonderland.2010.1080p.Blu-ray.DTS-ES.x264-ViSTA™.mkv] Completed extraction -     
+                             1920x1080 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [Ice_Age_Continental_Drift.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC           
+                    INFO     Committed 5 files to database (total: 175)                                                 
+                    INFO     [The.Spirit[2008].avi] Completed extraction - 672x272 DX50                                 
+[12/24/25 20:39:34] INFO     [Avatar.2009.1080p.BluRay.DTS.x264-ESiR.mkv] Completed extraction - 1920x1080              
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [One.Life.2011.1080p.BluRay.x264-BiRDHOUSE.mkv] Completed extraction - 1920x1080           
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Live.Free.or.Die.Hard.2007.BluRay.1080p.DL-DTS.x264-ESiR.mkv] Completed extraction -      
+                             1920x800 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Ratatouille.2007.PROPER.BluRay.1080p.DTS.x264.dxva-EuReKA.mkv] Completed extraction -     
+                             1920x802 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Bolt.3D.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                             
+                    INFO     Committed 5 files to database (total: 180)                                                 
+                    INFO     [The.Waterboy[1998].avi] Completed extraction - 544x304 XVID                               
+                    INFO     [The.Hunger.Games.1080p.BluRay.X264-BLOW.mkv] Completed extraction - 1920x800              
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [toro-eternamente.comprometidos.spa.eng.1080p.bluray.x264.mkv] Completed extraction -      
+                             1920x1040 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [Deadpool [2016].mkv] Completed extraction - 1920x804 V_MPEG4/ISO/AVC                      
+                    INFO     Committed 5 files to database (total: 185)                                                 
+                    INFO     [The.Love.Guru[2008].avi] Completed extraction - 696x284 DX50                              
+                    INFO     [Dr_Seuss_The_Lorax.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                  
+                    INFO     [Hot.Fuzz.with.Commentaries.720p.HDDVD.x264-iND.mkv] Completed extraction - 1280x544       
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Flushed.Away[2006].avi] Completed extraction - 608x320 DX50                               
+                    INFO     Committed 5 files to database (total: 190)                                                 
+                    INFO     [Terminator.3.Rise.Of.The.Machines[2003].avi] Completed extraction - 672x272 DX50          
+                    INFO     [おもひでぽろぽろ.Only.Yesterday.1991.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv] Completed       
+                             extraction - 1920x1036 V_MPEG4/ISO/AVC                                                     
+                    INFO     [Tower.Heist.2011.1080p.BluRay.x264-EbP.mkv] Completed extraction - 1920x800               
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [The.Nightmare.Before.Christmas[1993].avi] Completed extraction - 720x400 DX50             
+                    INFO     [Hugo.2011.1080p.BluRay.X264-AMIABLE.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC 
+                    INFO     [Dragon.Ball.Z.Coolers.Revenge.1991.720p.BluRay.x264-CiNEFiLE.mkv] Completed extraction -  
+                             1280x720 V_MPEG4/ISO/AVC                                                                   
+                    INFO     Committed 5 files to database (total: 195)                                                 
+[12/24/25 20:39:35] INFO     [Rock_of_Ages_Extended.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC               
+                    INFO     [A.Nightmare.On.Elm.Street.5.The.Dream.Child.1989.1080p.BluRay.x264-MOOVEE.mkv] Completed  
+                             extraction - 1920x1080 V_MPEG4/ISO/AVC                                                     
+                    INFO     [Star.Trek.First.Contact.1996.1080p.BluRay.DTS.x264-HDC.mkv] Completed extraction -        
+                             1920x818 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Star.Wars.The.Clone.Wars.2008.1080p.Bluray.DTS.x264-PerfectionHD.mkv] Completed extraction
+                             - 1920x816 V_MPEG4/ISO/AVC                                                                 
+                    INFO     Committed 5 files to database (total: 200)                                                 
+                    INFO     [James.Bond.007.02.Dr.No[1962].avi] Completed extraction - 624x338 XVID                    
+                    INFO     [Oceans.Eleven.2001.1080p.BluRay.x264-HDEX.mkv] Completed extraction - 1920x800            
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Men_in_Black_3.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                      
+                    INFO     [崖の上のポニョ.Ponyo.on.the.Cliff.by.the.Sea.2008.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv]    
+                             Completed extraction - 1920x1036 V_MPEG4/ISO/AVC                                           
+                    INFO     [Star Trek IV The Voyage Home 1986 1080p BluRay DTS x264-CtrlHD.mkv] Completed extraction -
+                             1920x816 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [Good Will Hunting.m4v] Completed extraction - 720x464 avc1                                
+                    INFO     Committed 5 files to database (total: 205)                                                 
+                    INFO     [Iron_Man.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                            
+                    INFO     [Oblivion.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                            
+                    INFO     [The.Incredible.Hulk.2008.BluRay.1080p.DTS.dxva-EuReKA.mkv] Completed extraction - 1920x816
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [The.Day.the.Earth.Stood.Still.2008.1080p.BluRay.DTS.x264-Prestige.mkv] Completed          
+                             extraction - 1920x816 V_MPEG4/ISO/AVC                                                      
+                    INFO     [The.Chronicles.of.Narnia.The.Voyage.of.the.Dawn.Treader.2010.1080p.BluRay.x264-EbP.mkv]   
+                             Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                                           
+                    INFO     Committed 5 files to database (total: 210)                                                 
+                    INFO     [Fantastic_4.mkv] Completed extraction - 1920x1080 V_MPEG2                                 
+[12/24/25 20:39:36] INFO     [Black Swan 2010 1080p BluRay DTS x264-CtrlHD.mkv] Completed extraction - 1920x800         
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Miami.Vice.2006.1080p.BluRay.DTS.x264.mkv] Completed extraction - 1920x784 V_MPEG4/ISO/AVC
+                    INFO     [Rogue One A Star Wars Story [2016].mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC  
+                    INFO     Committed 5 files to database (total: 215)                                                 
+                    INFO     [千と千尋の神隠し Spirited Away 2001 1080p HDTV x264.mkv] Completed extraction - 1920x1040 
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Cube.0.2004.1080p.x264.AC3.mkv] Completed extraction - 1920x1080 27                       
+                    INFO     [Now_You_See_Me.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                      
+                    INFO     [Charlie.And.The.Chocolate.Factory.2005.BluRay.1080p.DTS.x264.dxva-EuReKA.mkv] Completed   
+                             extraction - 1920x1080 V_MPEG4/ISO/AVC                                                     
+                    INFO     [Avengers_Age_of_Ultron.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC              
+                    INFO     Committed 5 files to database (total: 220)                                                 
+                    INFO     [James.Bond.007.04.Goldfinger[1964].avi] Completed extraction - 656x384 DIV3               
+                    INFO     [War.Horse.2011.1080p.BluRay.x264-SECTOR7.mkv] Completed extraction - 1920x800             
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Aliens.Vs.Predator.Requiem.2007.1080p.BluRay.x264-TFiN.mkv] Completed extraction -        
+                             1920x800 V_MPEG4/ISO/AVC                                                                   
+                    INFO     [The.Woman.In.Black.2012.1080p.BluRay.X264-BLOW.mkv] Completed extraction - 1920x816       
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [海がきこえる Ocean Waves 1993 DVDRip x264.mkv] Completed extraction - 720x464             
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     [Batman V Superman Dawn of Justice [2016] 2.mkv] Completed extraction - 1916x796           
+                             V_MPEG4/ISO/AVC                                                                            
+                    INFO     Committed 5 files to database (total: 225)                                                 
+[12/24/25 20:39:37] INFO     [Miss Universe 2010 1080i HDTV DD5.1 MPEG2.ts] Completed extraction - 1920x1080 2          
+                    INFO     [The_Dark_Knight.mkv] Completed extraction - 1920x1080 V_MS/VFW/FOURCC / WVC1              
+[12/24/25 20:39:39] INFO     [Cornetto.3.The.Worlds.End.2013.1080p.BluRay.DTS.x264-CyTSuNee.mkv] Completed extraction - 
+                             1920x816 V_MPEG4/ISO/AVC                                                                   
+[12/24/25 20:39:40] INFO     [Victoria's Secret Fashion Show 2005.ts] Completed extraction - 1920x1080 2                
+                    INFO     Committed 5 files to database (total: 230)                                                 
+[12/24/25 20:39:41] INFO     [ハウルの動く城.Howl's Moving Castle.2004.BluRay.1080p.DTS-HD.MA.x264-YUZ.mkv] Completed   
+                             extraction - 1920x1036 V_MPEG4/ISO/AVC                                                     
+                    INFO     [The.Ugly.Truth.2009.1080p.BluRay.X264-METiS.mkv] Completed extraction - 1920x800          
+                             V_MPEG4/ISO/AVC                                                                            
+[12/24/25 20:39:42] INFO     [Fanboys[2008].avi] Completed extraction - 624x352 XVID                                    
+[12/24/25 20:39:43] INFO     [Victoria's Secret Fashion Show 2008.ts] Completed extraction - 1920x1080 2                
+                    INFO     [Jurassic.Park.II.The.Lost.World[1997].avi] Completed extraction - 640x340 DX50            
+                    INFO     Committed 5 files to database (total: 235)                                                 
+[12/24/25 20:39:44] INFO     [A.Nightmare.on.Elm.Street.3.Dream.Warriors.1987.1080p.BluRay.x264-PSYCHD.mkv] Completed   
+                             extraction - 1920x1080 V_MPEG4/ISO/AVC                                                     
+[12/24/25 20:39:45] INFO     [Victoria's Secret Fashion Show 2009.ts] Completed extraction - 1920x1080 2                
+[12/24/25 20:39:47] INFO     [Harry.Potter.And.The.Order.Of.The.Phoenix.2007.1080p.BluRay.DTS.x264-hV.mkv] Completed    
+                             extraction - 1920x800 V_MPEG4/ISO/AVC                                                      
+                    INFO     [James.Bond.007.22.Die.Another.Day[2002].avi] Completed extraction - 640x266 XVID          
+                    INFO     [Inception.mkv] Completed extraction - 1920x1080 V_MS/VFW/FOURCC / WVC1                    
+                    INFO     Committed 5 files to database (total: 240)                                                 
+[12/24/25 20:39:48] INFO     [The_Lion_King_2.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC                     
+                    INFO     [Back.To.The.Future.Part.II.1989.1080p.BluRay.DTS.x264-CtrlHD.mkv] Completed extraction -  
+                             1920x1040 V_MPEG4/ISO/AVC                                                                  
+                    INFO     [The_Lion_King_Diamond_Edition.mkv] Completed extraction - 1920x1080 V_MPEG4/ISO/AVC       
+[12/24/25 20:39:49] INFO     [Dragon.Ball.Z.Broly.Second.Coming.1994.720p.BluRay.x264-CiNEFiLE.mkv] Completed extraction
+                             - 1280x720 V_MPEG4/ISO/AVC                                                                 

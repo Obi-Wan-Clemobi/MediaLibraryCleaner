@@ -1,0 +1,62 @@
+sabnzbd:
+  api_key: "your-sabnzbd-api-key-here"
+  url: "http://localhost:8080"
+  category_tv: "tv"
+  category_movies: "movies"
+
+quality:
+  min_resolution: 1080
+  preferred_codec: "h265"
+  min_bitrate_1080p: 2000  # kbps
+  min_bitrate_720p: 1500   # kbps
+  allowed_extensions:
+    - ".mkv"
+    - ".mp4"
+    - ".avi"
+    - ".m4v"
+
+indexers:
+  - name: "NZBGeek"
+    type: "newznab"
+    url: "https://api.nzbgeek.info"
+    api_key: "your-indexer-api-key"
+    enabled: true
+  - name: "NZBHydra2"
+    type: "newznab"
+    url: "http://localhost:5076"
+    api_key: "your-hydra-api-key"
+    enabled: false
+
+paths:
+  tv_shows: "/Volumes/Drobo/TV Shows"
+  movies: "/Volumes/Drobo/Movies"
+  backup: "/Volumes/Drobo/.backup"
+  database: "./data/medialibrary.db"
+
+scanner:
+  ignore_patterns:
+    - "*.nfo"
+    - "*.srt"
+    - "*.jpg"
+    - "*.png"
+    - "sample"
+  
+analyzer:
+  duplicate_detection:
+    use_hash: true
+    use_filename_similarity: true
+    similarity_threshold: 0.85
+  
+  series_detection:
+    check_missing_episodes: true
+    check_season_packs: true
+
+cleaner:
+  use_trash: true  # Move to trash instead of permanent delete
+  confirm_before_delete: true
+  keep_backup_days: 30
+
+ui:
+  host: "0.0.0.0"
+  port: 5000
+  debug: false
