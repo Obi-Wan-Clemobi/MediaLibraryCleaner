@@ -117,3 +117,17 @@ for item in items:
 - Documentation is part of the feature
 - Test with real network shares (AFP/SMB)
 - Performance matters for large libraries (1000+ files)
+
+## Git Workflow
+- Always initialize git repository for version control
+- Commit changes regularly with descriptive messages
+- Database files (*.db, data/) are already in .gitignore
+- Config files (config.yaml) are ignored - use config.example.yaml for templates
+- Before pushing to GitHub:
+  ```bash
+  git init
+  git add -A
+  git commit -m "Descriptive message"
+  git remote add origin <repo-url>
+  git push -u origin main
+  ```
