@@ -91,10 +91,13 @@ class MediaScanner:
             media_info = MediaInfo.parse(file_path)
             
             video_track = None
+            audio_track = None
+            
             for track in media_info.tracks:
-                if track.track_type == 'Video':
+                if track.track_type == 'Video' and not video_track:
                     video_track = track
-                    break
+                elif track.track_type == 'Audio' and not audio_track:
+                    audio_track = track
             
             if not video_track:
                 logger.warning(f"[{file_path.name}] No video track found")
@@ -107,13 +110,21 @@ class MediaScanner:
                 except (ValueError, TypeError):
                     duration = None
             
-            return {
+            result = {
                 'resolution_width': video_track.width,
                 'resolution_height': video_track.height,
                 'codec': video_track.codec_id or video_track.format,
                 'bitrate': video_track.bit_rate,
                 'duration': duration,
             }
+            
+            # Extract audio information
+            if audio_track:
+                result['audio_codec'] = audio_track.format or audio_track.codec_id
+                result['audio_channels'] = audio_track.channel_s
+                result['audio_language'] = audio_track.language
+            
+            return result
         except Exception as e:
             logger.error(f"[{file_path.name}] Error extracting media info: {e}")
             print(f"Error extracting media info from {file_path}: {e}")

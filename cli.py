@@ -216,6 +216,120 @@ def status():
         console.print(table)
 
 @cli.command()
+@click.option('--output', '-o', type=click.Path(), help='Output report to file')
+@click.option('--format', 'fmt', type=click.Choice(['text', 'csv', 'json']), default='text')
+def report(output, fmt):
+    """Generate detailed library report."""
+    import json
+    import csv
+    from collections import Counter
+    
+    db = Database(str(config.database_path))
+    
+    with db.get_session() as session:
+        files = session.query(MediaFile).all()
+        
+        if not files:
+            console.print("[yellow]No files in database. Run scan first.[/yellow]")
+            return
+        
+        # Gather statistics
+        total_size = sum(f.file_size for f in files if f.file_size)
+        resolutions = Counter(f.resolution for f in files if f.resolution_height)
+        codecs = Counter(f.codec for f in files if f.codec)
+        audio_codecs = Counter(f.audio_codec for f in files if f.audio_codec)
+        audio_channels = Counter(f.audio_channels for f in files if f.audio_channels)
+        
+        if fmt == 'json':
+            report_data = {
+                'total_files': len(files),
+                'total_size_gb': round(total_size / (1024**3), 2),
+                'resolutions': dict(resolutions),
+                'video_codecs': dict(codecs),
+                'audio_codecs': dict(audio_codecs),
+                'audio_channels': dict(audio_channels),
+                'files': [
+                    {
+                        'name': f.file_name,
+                        'resolution': f'{f.resolution_width}x{f.resolution_height}' if f.resolution_width else 'Unknown',
+                        'codec': f.codec,
+                        'audio_codec': f.audio_codec,
+                        'audio_channels': f.audio_channels,
+                        'bitrate_mbps': round(f.bitrate / 1000000, 2) if f.bitrate else None,
+                        'size_gb': round(f.file_size / (1024**3), 2) if f.file_size else None,
+                    }
+                    for f in files
+                ]
+            }
+            
+            output_text = json.dumps(report_data, indent=2)
+            
+        elif fmt == 'csv':
+            import io
+            output_buffer = io.StringIO()
+            writer = csv.writer(output_buffer)
+            writer.writerow(['File Name', 'Resolution', 'Video Codec', 'Audio Codec', 'Audio Channels', 'Bitrate (Mbps)', 'Size (GB)'])
+            
+            for f in files:
+                writer.writerow([
+                    f.file_name,
+                    f'{f.resolution_width}x{f.resolution_height}' if f.resolution_width else 'Unknown',
+                    f.codec or 'Unknown',
+                    f.audio_codec or 'Unknown',
+                    f.audio_channels or 'Unknown',
+                    round(f.bitrate / 1000000, 2) if f.bitrate else 'Unknown',
+                    round(f.file_size / (1024**3), 2) if f.file_size else 'Unknown',
+                ])
+            
+            output_text = output_buffer.getvalue()
+            
+        else:  # text format
+            from rich.panel import Panel
+            from rich.columns import Columns
+            
+            lines = []
+            lines.append(f"\n{'='*80}")
+            lines.append(f"MEDIA LIBRARY REPORT")
+            lines.append(f"{'='*80}\n")
+            
+            lines.append(f"Total Files: {len(files)}")
+            lines.append(f"Total Size: {total_size / (1024**3):.2f} GB\n")
+            
+            lines.append("RESOLUTION BREAKDOWN:")
+            for res, count in resolutions.most_common():
+                lines.append(f"  {res}: {count} files")
+            
+            lines.append("\nVIDEO CODECS:")
+            for codec, count in codecs.most_common(10):
+                lines.append(f"  {codec}: {count} files")
+            
+            lines.append("\nAUDIO CODECS:")
+            for audio, count in audio_codecs.most_common(10):
+                lines.append(f"  {audio}: {count} files")
+            
+            lines.append("\nAUDIO CHANNELS:")
+            for channels, count in audio_channels.most_common():
+                channel_label = {
+                    2.0: "Stereo (2.0)",
+                    6.0: "5.1 Surround",
+                    8.0: "7.1 Surround",
+                }.get(channels, f"{channels} channels")
+                lines.append(f"  {channel_label}: {count} files")
+            
+            lines.append(f"\n{'='*80}\n")
+            
+            output_text = '\n'.join(lines)
+            console.print(output_text)
+        
+        # Save to file if requested
+        if output:
+            with open(output, 'w') as f:
+                f.write(output_text)
+            console.print(f"\n[green]✓ Report saved to {output}[/green]")
+        elif fmt != 'text':
+            console.print(output_text)
+
+@cli.command()
 def ui():
     """Start web UI."""
     console.print("[cyan]Starting web UI...[/cyan]")

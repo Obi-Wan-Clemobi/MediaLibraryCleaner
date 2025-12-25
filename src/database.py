@@ -29,6 +29,11 @@ class MediaFile(Base):
     bitrate = Column(Integer)
     duration = Column(Float)
     
+    # Audio metadata
+    audio_codec = Column(String)
+    audio_channels = Column(Float)
+    audio_language = Column(String)
+    
     created_at = Column(DateTime, default=datetime.utcnow)
     scanned_at = Column(DateTime, default=datetime.utcnow)
     
