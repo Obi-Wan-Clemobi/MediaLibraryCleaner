@@ -51,3 +51,9 @@ logs/
 # Reports
 reports/
 *.html
+*.csv
+*_report.txt
+library_*.csv
+upgrade_*.csv
+scan_log.txt
+nohup.out
